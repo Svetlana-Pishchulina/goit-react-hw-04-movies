@@ -1,0 +1,16 @@
+.form {
+  display: flex;
+}
+.button {
+  height: 25px;
+  border: 1px solid gray;
+}
+
+.input {
+  height: 25px;
+  padding: 0;
+  border: 1px solid gray;
+}
+.list {
+  text-align: left;
+}
